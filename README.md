@@ -9,4 +9,12 @@ seem to really enjoy figuring out how to make it work and playing it.
 I am very open to people adding some more games. For the pull request to
 be accepted they will need to be very simple in execution. Tests will
 likely be added soon as I get time. If you want to beat me to it feel
-free. 
+free.
+
+##How to Play The Games##
+
+### Number Guessor ###
+You will need to bundle when you first try to play this game as it
+requires the IO class so it can have hidden input for "correct" number.
+After you have bundled then run the `guess.rb` file to get started. The
+prompts should provide good detail for you to play.  
