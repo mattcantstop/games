@@ -17,4 +17,12 @@ free.
 You will need to bundle when you first try to play this game as it
 requires the IO class so it can have hidden input for "correct" number.
 After you have bundled then run the `guess.rb` file to get started. The
-prompts should provide good detail for you to play.  
+prompts should provide good detail for you to play.
+
+### Who Goes First ###
+To use this just go to the `picker.rb` file and enter the participant's
+names in the array. They enter the argument passed to `rand` as the
+number of people in the array.  
+
+Really simply way to show kids what an array is and how the rand method
+can do. Fun way to solve a simple problem with software for kids.   
